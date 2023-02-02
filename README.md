@@ -12,7 +12,7 @@ Hello, i'm Carlos, a Full Stack Developer, focused on PHP (Back End), JavaScript
       <li>Back End with PHP/Java/JUnit</li>
       <li>Scripts with Python</li>
       <li>Front End with AngularJS/JQuery</li>
-      <li>Database services with SQL</li>
+      <li>Database services with MySQL</li>
   </ul>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>

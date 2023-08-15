@@ -19,7 +19,7 @@ Hello, i'm Carlos, a Full Stack Developer, focused on PHP (Back End), JavaScript
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-logo-only-letter.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/typescript.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/jquery-4.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/mysql-6.svg'>

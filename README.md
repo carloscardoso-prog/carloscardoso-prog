@@ -9,10 +9,10 @@ Hello, i'm Carlos, a Full Stack Developer, focused on PHP (Back End), JavaScript
 
 🖥️ Know how to work: / Working with:
   <ul>
-      <li>Back End with PHP/Java/JUnit</li>
+      <li>Back End with PHP/Laravel/Java/JUnit</li>
       <li>Scripts with Python</li>
       <li>Front End with TypeScript/JQuery</li>
-      <li>Database services with MySQL</li>
+      <li>Database services with MySQL/MariaDB</li>
   </ul>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>

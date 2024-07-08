@@ -1,4 +1,4 @@
-Hello, i'm Carlos, a Full Stack Developer, focused on PHP (Back End), JavaScript (Front End) and MariaDB/MySQL (SQL/DB) at the moment.
+Hello, i'm Carlos, a Full Stack Developer, mainly working with PHP, JavaScript and Databases like MariaDB/MySQL and also MongoDB.
 
 
 <div>
@@ -10,9 +10,10 @@ Hello, i'm Carlos, a Full Stack Developer, focused on PHP (Back End), JavaScript
 🖥️ Know how to work: / Working with:
   <ul>
       <li>Back End with PHP/Laravel/Java/JUnit</li>
-      <li>Scripts with Python</li>
+      <li>Automations with Python</li>
       <li>Front End with TypeScript/JQuery</li>
-      <li>Database services with MySQL/MariaDB</li>
+      <li>Database services with MySQL/MariaDB, and MongoDB for NoSQL projects</li>
+      <li>Git is kind of a hassle for me to update often, so don't refrain sending me skill tests or project requests. I'll be glad to accept them!</li>
   </ul>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
